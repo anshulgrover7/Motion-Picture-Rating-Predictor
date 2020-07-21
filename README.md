@@ -25,6 +25,11 @@ Just install RStudio and run mpaa.R
 * [NaiveBayes](https://www.rdocumentation.org/packages/naivebayes/versions/0.9.7) - used to convert two attributes to bins
 * [h2o](https://cran.r-project.org/web/packages/h2o/index.html) - ANN used to achieve higher accuracy 
 
+## ToDo
+* Replicate the project in python
+* Training the ML algorithms with newer movies 
+* Using a GraphDB to see the relationships between entities
+
 ## Authors
 
 * **Abhishek Jain** 
